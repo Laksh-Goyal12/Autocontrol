@@ -10,3 +10,5 @@ winget install --id Git.Git -e --source winget
 To install this repo:--
 git clone https://github.com/Laksh-Goyal12/Autocontrol.git
 
+INSTALL PYTHON
+https://www.python.org/downloads/windows/
