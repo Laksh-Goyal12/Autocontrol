@@ -12,3 +12,6 @@ git clone https://github.com/Laksh-Goyal12/Autocontrol.git
 
 INSTALL PYTHON
 https://www.python.org/downloads/windows/
+
+###################IMPORTANT################
+Need to update pip to install pyaudio
