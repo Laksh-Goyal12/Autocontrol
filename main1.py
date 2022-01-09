@@ -99,7 +99,6 @@ def Take_query():
             speak("You are my owner.")
 
         elif "upar" in query:
-            speak("Sorry sir")
             pyautogui.scroll(5)
 
         elif "down" in query:
