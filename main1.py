@@ -83,7 +83,6 @@ def Take_query():
             tellTime()
 
         elif "khatam" in query:
-            speak("Bye Mitesh Mustaa Sir")
             exit()
           
         # elif "jarvis from wikipedia" in query:
@@ -97,7 +96,7 @@ def Take_query():
             speak("I am Jarvis. Your working Assistant")
 
         elif "who am i" in query:
-            speak("You are Mitesh Mustaa sir.")
+            speak("You are my owner.")
 
         elif "upar" in query:
             speak("Sorry sir")
