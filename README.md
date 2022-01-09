@@ -15,3 +15,6 @@ https://www.python.org/downloads/windows/
 
 ###################IMPORTANT################
 Need to update pip to install pyaudio
+
+To install PyAudio:--
+pip install PyAudio-0.2.11-cp310-cp310-win_amd64.whl
