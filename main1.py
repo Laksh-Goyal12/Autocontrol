@@ -5,6 +5,8 @@ import datetime
 import wikipedia 
 import pyautogui
 
+pyautogui.FAILSAFE = False
+
 youtube = 'www.youtube.com'
 google = 'www.google.com'
 gmail = 'www.gmail.com'
